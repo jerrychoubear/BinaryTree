@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>BinaryTree.Models</AssemblyName>
+    <RootNamespace>BinaryTree.Models</RootNamespace>
+  </PropertyGroup>
+
+</Project>
